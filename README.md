@@ -1,2 +1,2 @@
 # Test app for custom GStreamer plugin
-This is test application for custom GStreamer audio plugin. You need to edit GST_PLUGIN_PATH in Makefile, set your plugin's path.
+This is test application for custom GStreamer audio plugin. You need to edit GST_PLUGIN_PATH in Makefile, set your plugin's path. Plugin's name must be my_filter, or change 72th row in main.c to your own plugin's name.
